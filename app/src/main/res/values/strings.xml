@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blink</string>
+    <string name="title_activity_photo_viewer">Photo Viewer</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+
+    <string name="galaxy_note_fe">SM-N935L</string>
+    <string name="huawei_nexus_6p">Nexus 6P</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
+            you can display camera preview and take pictures.
+
+
+        ]]>
+    </string>
+</resources>
